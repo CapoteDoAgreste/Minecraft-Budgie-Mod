@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "testmod:gamerbudgie_block"
+    }
+  ],
+  "result": {
+    "item": "testmod:gamerbudgie",
+    "count": 9
+  }
+}
