@@ -21,6 +21,10 @@ public class ModelItemGroups {
                 entries.add(ModItems.GAMERBUDGIE_RAW);
                 entries.add(ModBlocks.GAMERBUDGIE_BLOCK);
                 entries.add(ModBlocks.GAMERBUDGIE_RAW_BLOCK);
+                entries.add(ModBlocks.GAMERBUDGIE_ORE_BLOCK);
+                entries.add(ModBlocks.NETHER_GAMERBUDGIE_ORE_BLOCK);
+                entries.add(ModBlocks.DEEPSLATE_GAMERBUDGIE_ORE_BLOCK);
+                entries.add(ModBlocks.END_STONE_GAMERBUDGIE_ORE_BLOCK);
 
 
             }).build());

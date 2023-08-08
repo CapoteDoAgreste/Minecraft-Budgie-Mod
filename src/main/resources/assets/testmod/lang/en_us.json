@@ -3,5 +3,9 @@
   "item.testmod.gamerbudgie_raw": "Raw Gamer Budgie",
   "block.testmod.gamerbudgie_block": "Gamer Budgie Block",
   "block.testmod.gamerbudgie_raw_block": "Gamer Budgie Raw Block",
+  "block.testmod.end_stone_gamerbudgie_ore_block": "End Stone Gamer Budgie Ore Block",
+  "block.testmod.nether_gamerbudgie_ore_block": "Nether Gamer Budgie Ore Block",
+  "block.testmod.deepslate_gamerbudgie_ore_block": "Deepslate Gamer Budgie Ore Block",
+  "block.testmod.gamerbudgie_ore_block": "Gamer Budgie Ore Block",
   "itemgroup.gamerbudgie": "Gamer Budgie Group"
 }

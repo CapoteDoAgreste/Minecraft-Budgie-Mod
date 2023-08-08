@@ -1,6 +1,10 @@
 {
   "replace": false,
   "values": [
-    "testmod:gamerbudgie_raw_block"
+    "testmod:gamerbudgie_raw_block",
+    "testmod:gamerbudgie_ore_block",
+    "testmod:end_stone_gamerbudgie_ore_block",
+    "testmod:nether_gamerbudgie_ore_block",
+    "testmod:deepslate_gamerbudgie_ore_block"
   ]
 }

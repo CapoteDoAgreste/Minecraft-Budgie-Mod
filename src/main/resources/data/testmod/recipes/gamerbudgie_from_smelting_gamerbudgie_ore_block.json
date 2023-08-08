@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "gamerbudgie",
+  "ingredient": {
+    "item": "testmod:gamerbudgie_ore_block"
+  },
+  "result": "testmod:gamerbudgie"
+}

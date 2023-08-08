@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "testmod:block/deepslate_gamerbudgie_ore_block"
+  }
+}
